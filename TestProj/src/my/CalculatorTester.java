@@ -11,7 +11,7 @@ public class CalculatorTester {
 		//fail("Not yet implemented");
 		Calculator calc = new Calculator();
 		//assertEquals(12, calc.calculate(4, 3));
-		assertEquals(14, calc.calculate(4, 3));
+		assertEquals(11, calc.calculate(4, 3));
 	}
 
 }
