@@ -10,7 +10,8 @@ public class CalculatorTester {
 	public void testCalculate() {
 		//fail("Not yet implemented");
 		Calculator calc = new Calculator();
-		assertEquals(12, calc.calculate(4, 3));
+		//assertEquals(12, calc.calculate(4, 3));
+		assertEquals(14, calc.calculate(4, 3));
 	}
 
 }
